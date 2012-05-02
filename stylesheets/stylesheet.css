@@ -277,7 +277,7 @@ Full-Width Styles
   margin: 0 auto;
 }
 
-footer.inner {
+#footer_wrap, footer.inner {
   -moz-border-radius: 7px;	
   -webkit-border-radius: 7px;	
   border-radius: 7px;	
