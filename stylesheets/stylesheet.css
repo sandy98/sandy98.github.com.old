@@ -278,9 +278,10 @@ Full-Width Styles
 }
 
 #footer_wrap, footer.inner {
-  -moz-border-radius: 7px;	
-  -webkit-border-radius: 7px;	
-  border-radius: 7px;	
+  -moz-border-radius: 8px;	
+  -webkit-border-radius: 8px;	
+  border-radius: 8px;
+  text-align: center;  
 }
 
 #forkme_banner {
